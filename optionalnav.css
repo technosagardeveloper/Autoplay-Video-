@@ -1,0 +1,190 @@
+
+*{
+padding:0px;
+margin: 0px;
+ 
+}
+ 
+
+
+.topnav{
+margin: 0px;
+padding: 0px;
+list-style-type: none;
+text-decoration: none;
+width: 100%;
+position: fixed;
+background-color: black;
+position: absolute;
+
+}
+
+
+.topnav ul{
+
+list-style-type: none;
+text-decoration: none;
+
+}
+
+
+
+.topnav li {
+list-style-type: none;
+text-decoration: none;
+float: right;
+padding: 10px 50px 40px 20px;
+ 
+}
+
+ 
+.topnav a{
+list-style-type: none;
+text-decoration: none;
+color: white;
+font-size: 20px;
+font-family: cursive;
+}
+
+ 
+.topnav  i{
+  padding:0px 10px 0px ;
+  
+  }
+  
+
+  .logo{
+font-size: 40px;
+padding: 5px 0px 10px 0px;
+font-family: 'Moon Dance', cursive;
+ color:white ;
+    float: left;
+ 
+font-weight: bolder;
+
+}
+  .logo span{ 
+    color: yellow;
+font-size: 80px;
+  font-family: 'The Nautigal', cursive; 
+  
+
+}
+ 
+label{
+float: right;
+display: block;
+padding: 10px 80px 15px 0px;
+position: relative;
+
+}
+
+ 
+ 
+
+
+
+
+.myvideo{
+padding:0px;
+  left: 0px;
+bottom: 0px;
+right: 0px;
+width: 100%;
+display: flex;
+}
+
+ img {
+position: relative;
+width: 30%;
+height: 30%;
+display: block;
+margin: 0px;
+
+ }
+
+
+span{
+  margin: 0px;
+padding: 5px 0px;  
+font-size:80px;
+font-weight: bolder;
+color: black;
+font-family: 'The Nautigal', cursive;
+}
+
+
+.fotter{
+background-color: black;
+padding: 20px 49px 53px 0px;
+width: 96.6%;
+height: 40%;
+ list-style-type: none;
+ text-decoration: none;
+
+}
+
+
+
+.fotter .fa-instagram
+
+{
+
+background-color: purple;
+color: white;
+width: 29px; 
+font-size: 30px;
+display: block;
+ padding: 10px;
+ float: right;
+ position:static;
+ border-radius: 30px;
+ 
+}
+
+.fotter .fa-facebook{
+color: white;
+font-size: 30px;
+background-color: blue;
+display: block;
+ width: 28px;
+padding: 11px;
+float: right;
+position:static;
+border-radius: 30px;
+
+}
+ 
+.fotter .fa-pinterest{
+ 
+  font-size: 30px;
+ position:static;
+ padding-top:0px ;
+border-radius: 30px;
+ width: 26px;
+  padding: 11px;
+ background-color: red; 
+color: white;
+display: block;
+float: right;
+
+}
+
+.fotter abbr{
+color: white;
+font-size: 20px;
+float: right;
+font-family: 'Orelega One', cursive;
+
+} 
+
+
+.fotter label{
+
+float: left;
+padding:0px;
+margin: 0px;
+color: white;
+display: block;
+ 
+}
